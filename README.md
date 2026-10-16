@@ -1,1 +1,1 @@
-# iT-Resource-Planning-Sourcing-Asset-Lifecycle-Governance
+jumia-it-resource-governance
