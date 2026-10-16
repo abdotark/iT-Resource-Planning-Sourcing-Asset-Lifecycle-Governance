@@ -1,21 +1,13 @@
-# Jumia — IT Resource Planning, Sourcing & Asset Lifecycle Governance
+# Week 1: IT Resource Planning & Sourcing Strategy
 
-## Project purpose
-This repository organizes the team's research and deliverables for the four-week IT governance project, using Jumia as the company under study.
+## Project Overview
+This project studies IT Resource Planning, Sourcing, and Asset Lifecycle Governance using Jumia as a case study.
 
-## Important research rule
-Use publicly available sources. Clearly distinguish:
-- **Verified fact**: explicitly supported by a source.
-- **Analysis**: interpretation based on evidence.
-- **Recommendation**: proposed action.
-- **Unknown / needs validation**: information not available publicly.
+## Week 1 Deliverables
+1. IT Asset Inventory
+2. Sourcing Strategy Paper
+3. Build vs Buy vs Partner Decision Matrix
+4. Sourcing Risk Assessment
 
-Do not present estimates or assumptions as confirmed internal Jumia information.
-
-## Project structure
-- `week-1/`: IT resource planning and sourcing strategy
-- `week-2/`: capacity planning and acquisition
-- `week-3/`: asset lifecycle and HR competency
-- `week-4/`: vendor governance, metrics, dashboard, and final report
-- `references/`: shared source log
-
+## Research Approach
+The analysis will use publicly available information. Any assumptions and recommendations will be clearly identified.
